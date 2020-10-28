@@ -1,2 +1,3 @@
 # Codes-Python
- Python programs 
+ This repository has Python projects.
+ Esse repositório possui projetos em Python. 
